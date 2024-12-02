@@ -246,7 +246,6 @@
 
 .about__column {
 	grid-column: 1;
-	justify-self: center;
 	padding: 35px 72px 72px 47px;
 }
 

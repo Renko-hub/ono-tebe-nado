@@ -67,8 +67,7 @@
 
 .header__address {
 	grid-column: 3;
-	justify-self: end;
-	padding: 5px 65px 2px 184px;
+	padding: 5px 25px 2px 184px;
 }
 
 .cover {
